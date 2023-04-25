@@ -1,0 +1,2 @@
+# parallel-trained-convolutional-neural-network-for-real-time-handwritten-number-recognition
+A convolutional neural network trained in parallel (optimizing this process), a web page that allows us to write the numbers from 0 to 9 and an output of the network prediction are presented. This is a first step in creating a network that recognizes mathematical symbols and handwritten formulas and returns them in latex format.
